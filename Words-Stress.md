@@ -24,4 +24,5 @@ Example: "unHÁPPY," "reDO," "prePARE"
 Function words: Some small function words (articles, prepositions, pronouns, etc.) are typically unstressed in a sentence.
 
 Example: "the," "of," "to," "and," "it," "I," "you," etc.
+
 Remember that word stress is an essential aspect of English pronunciation and can affect how native speakers understand you. Practicing and mastering word stress can greatly improve your spoken English clarity and fluency.

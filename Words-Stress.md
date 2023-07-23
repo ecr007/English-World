@@ -6,22 +6,27 @@ In multi-syllable words, one syllable is usually stressed more than the others. 
 
 Here are some general rules for word stress in English:
 
-Nouns, adjectives, and adverbs: In many two-syllable words, the stress falls on the first syllable.
+**Nouns, adjectives, and adverbs: In many two-syllable words, the stress falls on the first syllable.**
 
 Example: "BÁby" (noun), "HÁppy" (adjective), "QUickly" (adverb)
-Verbs: In two-syllable verbs, the stress often falls on the second syllable.
+
+**Verbs: In two-syllable verbs, the stress often falls on the second syllable.**
 
 Example: "beLIEVE" (verb), "reLAX" (verb)
-Words with suffixes: When a suffix is added to a word, the primary stress usually remains on the root or base word.
+
+**Words with suffixes: When a suffix is added to a word, the primary stress usually remains on the root or base word.**
 
 Example: "deCIde" (verb) -> "deCIsion" (noun), "comPLETE" (adjective) -> "comPLETEly" (adverb)
-Compound words: In compound words, the primary stress is often on the first word.
+
+**Compound words: In compound words, the primary stress is often on the first word.**
 
 Example: "BLACKbird," "HIGHway," "WATERfall"
-Prefixes: In words with prefixes, the primary stress is usually on the base word.
+
+**Prefixes: In words with prefixes, the primary stress is usually on the base word.**
 
 Example: "unHÁPPY," "reDO," "prePARE"
-Function words: Some small function words (articles, prepositions, pronouns, etc.) are typically unstressed in a sentence.
+
+**Function words: Some small function words (articles, prepositions, pronouns, etc.) are typically unstressed in a sentence.**
 
 Example: "the," "of," "to," "and," "it," "I," "you," etc.
 

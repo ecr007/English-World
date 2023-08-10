@@ -1,0 +1,1 @@
+- Overly so: means excessively or to an extreme degree.

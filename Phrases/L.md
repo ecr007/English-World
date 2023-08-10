@@ -1,0 +1,1 @@
+- Ladies and gentlemen: is a phrase used to address or greeting a group of people in a formal or polite manner.

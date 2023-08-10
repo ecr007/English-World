@@ -1,0 +1,1 @@
+(Adj.) Typical: Showing the usual characteristics.

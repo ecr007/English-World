@@ -1,0 +1,1 @@
+- As good as your: is a comparison phrase used to say that something or someone is of equal or similar quality to what you have.

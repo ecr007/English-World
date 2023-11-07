@@ -10,3 +10,13 @@
 - A couple == Two
 - Casual == Comfortable <> Formal == Conservative
 - Unique == Unusual <> Common == Ordinary
+
+
+## Book 5 - Unit 6
+
+- ride my bike <-> go by bike
+- take the bus <-> go by bus
+- drive <->  go by car 
+- take a taxi <-> go by taxi 
+- take the train <-> go by train 
+- walk <-> go on foot

@@ -1,0 +1,1 @@
+Keep in mind: means to remember or consider somothing. e.g: When shoosing a collage keep in mind the distance from home.

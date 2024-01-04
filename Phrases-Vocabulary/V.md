@@ -1,0 +1,1 @@
+Variable: is a named container that holds data or information. It acts as a placeholder to store different type of values, such as numbers, characters or text.

@@ -1,1 +1,0 @@
-- Sole: bottom of a shoe

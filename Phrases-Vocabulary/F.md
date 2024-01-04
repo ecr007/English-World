@@ -1,0 +1,1 @@
+Far away: Indicates a considerable distance. 

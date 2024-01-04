@@ -1,1 +1,0 @@
-- Cut back on: means reduce spending. | Ex: I need to cut back on spending so that I can save money for my vacation

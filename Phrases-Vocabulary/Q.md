@@ -1,0 +1,1 @@
+Quiet: (Adj) (noun) (verb) Making a little or no noise. E.g The car has a quiet, economical engine. 

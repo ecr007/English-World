@@ -1,0 +1,1 @@
+Refer: Mention or allude to. (P. Tense => Referred) 

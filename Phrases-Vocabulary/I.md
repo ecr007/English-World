@@ -15,3 +15,5 @@ I will proceed:  means that the person intends to continue or move forward with 
 Inheritance: (noun) is used when we have is-a relationship between objects. Inheritance in Java is implemented using ```extends``` keyword.
 
 Inherit: (verb) If the Animal is the base class. The Cat Class inherits from Animal Class. 
+
+I was **a surfing instructor** in the Dominican Republic: means that at that time, the person speaking had a job teaching people how to surf in the Dominican Republic.

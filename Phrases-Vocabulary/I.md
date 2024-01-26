@@ -17,3 +17,5 @@ Inheritance: (noun) is used when we have is-a relationship between objects. Inhe
 Inherit: (verb) If the Animal is the base class. The Cat Class inherits from Animal Class. 
 
 I was **a surfing instructor** in the Dominican Republic: means that at that time, the person speaking had a job teaching people how to surf in the Dominican Republic.
+
+In Private: (Phrase) without other people present often because it is a secret. 

@@ -19,3 +19,5 @@ Inherit: (verb) If the Animal is the base class. The Cat Class inherits from Ani
 I was **a surfing instructor** in the Dominican Republic: means that at that time, the person speaking had a job teaching people how to surf in the Dominican Republic.
 
 In Private: (Phrase) without other people present often because it is a secret. 
+
+I appreciate you getting back to me: Means that the speaker is thankful or grateful for the person responding.

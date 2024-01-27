@@ -10,3 +10,10 @@ Though: (conjunction) (aunque o sin embargo) : Is often used to introduce a cont
 
 The general public: (noun) All the people om a country or community. 
 
+Take: (verb) To move or carry something from one place to another. Past Tense: Took | Past participle: Taken | E.g: I took my car for repair last week.
+
+Think: (verb) To have an opinion or form a mental image. Past Tense: Thought | Past Participle: Thought | E.g: I thought the was excellent.
+
+Tell: (verb) To communicate information to someone. Past Tense: Told | Past Participle: Told | E.g: He told me an important message yesterday, please call him right now.
+
+Travel: (verb) To go on a journey or trip. Past Tense: Traveled | Past Participle: Traveled | E.g: We traveled to Europe last summer.

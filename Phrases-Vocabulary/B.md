@@ -7,3 +7,7 @@ Begin: (verb) is start or initiate something.
 Become: (verb) Begin to be. E.g: She become angry and sulked all day. 
 
 Brief: (noun) a set of instructions given to a person about a job or task.
+
+Be: (verb) To exists or have particular quality. Past Tense: Was/Were | Past Participle: Been | E.g: I was happy to see you.
+
+Buy: (verb) To acquire something by paying for it. Past Tense: Bought | Past Participle: Bought | E.g: We bought a new car last month. 

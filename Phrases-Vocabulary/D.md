@@ -9,3 +9,8 @@ Desire: (verb) (noun) (adj) strongly wish for or want something. E.g: He never a
 Disturb: (verb) interrupt or upset someone.
 
 Do Repairs (verb) to fix things
+
+Do: (verb) To perform an action or task. Past Tense: Did | Past Participle: Done | E.g: I did my homework last night.
+
+Dance: (verb) To move the body rhythmically to music. Past Tense: Danced | Past Participle: Danced | E.g: They danced at the party until midnight.
+

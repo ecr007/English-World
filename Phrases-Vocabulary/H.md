@@ -15,3 +15,5 @@ Help: (verb) To assist or provide aid to someone. Past Tense: Helped | Past Part
 Hear: (verb) To perceive sound through the ears. Past Tense: Heard | Past Participle: Heard | E.g: I heard a beautiful melody playing.
 
 Hope: (verb) To desire or wish for a specific outcome or event. Past Tense: Hoped | Past Participle: Hoped | E.g: I hoped for a good weather during our vacation.
+
+Hate: (verb) To strongly dislike or have a strong aversion towards someone or something. Past Tense: Hated | Past Participle: Hated | E.g: I hated the taste of that food. 

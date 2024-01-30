@@ -12,3 +12,9 @@ Go Ahead: means to proceed or continue with a task or action. It suggests there 
 
 Go: (verb) To move from one place to another. Past tense: Went | Past Participle: Gone | E.g: Yesterday I went to the store.
 
+Give: (verb) To transfer the possession of something to someone. Past Tense: Gave | Past Participle: Given | E.g: She gave me a birthday present.
+
+Gather: (verb) means to come together or assemble in one place. Past Tense: Gathered | Past Participle: Gathered | E.g: We gathered information for the report.
+
+Get rid of all: means to completely eliminate or dispose something. E.g: Should I get rid of all my old car and buy a new one?
+

@@ -13,3 +13,7 @@ Be: (verb) To exists or have particular quality. Past Tense: Was/Were | Past Par
 Buy: (verb) To acquire something by paying for it. Past Tense: Bought | Past Participle: Bought | E.g: We bought a new car last month. 
 
 Bright: (Adj) giving out or reflecting much light; shining. E.g: A bright room has a lot of natural light and feels cheerful and vibrant. 
+
+Besides: (?)
+
+Break Up: To end a romantic relationship.

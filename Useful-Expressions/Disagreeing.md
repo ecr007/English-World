@@ -14,5 +14,7 @@
 - That's (just) not true
 - I (totally) (completely) disagree.
 
-Afraid: ```Afreid``` feeling fear, or feeling worry about the possible results of a particular situation.
+## Disagreeing Politely 
 
+- I agree up to a point. 
+- But what about?

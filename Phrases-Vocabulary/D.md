@@ -14,3 +14,5 @@ Do: (verb) To perform an action or task. Past Tense: Did | Past Participle: Done
 
 Dance: (verb) To move the body rhythmically to music. Past Tense: Danced | Past Participle: Danced | E.g: They danced at the party until midnight.
 
+Drop off: (verb) is to deliver or leave someone or something at a specific location.
+

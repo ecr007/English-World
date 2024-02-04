@@ -17,3 +17,14 @@ Think: (verb) To have an opinion or form a mental image. Past Tense: Thought | P
 Tell: (verb) To communicate information to someone. Past Tense: Told | Past Participle: Told | E.g: He told me an important message yesterday, please call him right now.
 
 Travel: (verb) To go on a journey or trip. Past Tense: Traveled | Past Participle: Traveled | E.g: We traveled to Europe last summer.
+
+Toddler: (noun) a young child who is just beginning to walk.
+
+Turn down: refuse someone's request or offer.
+
+Take off: (verb)
+
+	1. To leave the ground: “The plane will take off in 30 minutes.” In this sense, it refers to the moment when an aircraft leaves the ground and starts flying.
+
+	2. To remove clothing or accessories: “It’s hot, so I’m going to take off my jacket.” This means to take off or remove something that you are wearing.
+

@@ -18,3 +18,18 @@ Gather: (verb) means to come together or assemble in one place. Past Tense: Gath
 
 Get rid of all: means to completely eliminate or dispose something. E.g: Should I get rid of all my old car and buy a new one?
 
+Grow: (verb) To increase in size, develop, or cultivate over time. Past Tense: Grew | Past Participle: Grown | E.g: Plants grow faster in sunlight. 
+
+Graduate school: is a university division that offers advanced programs of study beyond a bachelor's degree. Graduate schools are higher education institutions that award postgraduate degrees, most commonly master's and doctorate (PhD) programs.
+
+Going forward: Means in the future or from now on. It is used to talk about what will happen or be done in upcoming situations or time periods. 
+
+Go out: To travel to a places other than your own home, usually with the intention of being social.
+
+Get along: (verb) to interact with someone you know in a friendly manner. 
+
+Get on: (verb) To enter or board a vehicle, such bus, train or plane. E.g: Please hurry up an get on the bus.
+
+Get off: (verb) To physically disembark or descend from a vehicle or a mode of transportation. E.g: I get off the bus at the next stop.
+
+

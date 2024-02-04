@@ -11,3 +11,9 @@ Read: (verb) To interpret written or printed material. Past Tense: Read (P-> "Re
 Run: (verb) To move rapidly on foot. Past Tense: Ran | Past Participle: Run | E.g: He ran a marathon last year.
 
 Redo: To do again or repeat a task or activity. Past Tense: Redid | Past Participle: Redone | E.g: I had to redo the experiment accurate results.
+
+Run into: means to unexpectedly meet or encounter someone or something. E.g I ran into my old friend at the grocery store yesterday.  
+
+Run after: (verb) to chase or pursue someone or something by running. E.g: The kids run after the ball in the playground. 
+
+Run away: (verb) to escape by running often implying a desire to leave or avoid a situation. E.g: When the bee buzzed near, the girl wanted to run away. 

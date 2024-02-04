@@ -17,3 +17,5 @@ Hear: (verb) To perceive sound through the ears. Past Tense: Heard | Past Partic
 Hope: (verb) To desire or wish for a specific outcome or event. Past Tense: Hoped | Past Participle: Hoped | E.g: I hoped for a good weather during our vacation.
 
 Hate: (verb) To strongly dislike or have a strong aversion towards someone or something. Past Tense: Hated | Past Participle: Hated | E.g: I hated the taste of that food. 
+
+Hesitate: (verb) pause in indecision before saying or doing something. Past Tense: Hesitated | Past Participle: Hesitate | E.g: She hesitated before answering the question. 

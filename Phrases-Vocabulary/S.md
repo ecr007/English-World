@@ -23,3 +23,9 @@ Study: (verb) To engage in learning through reading research. Past Tense: Studie
 Sing: (verb) To produce musical sounds with the voice. Past Tense: Sang | Past Participle: Sung | E.g: They sang their favorite song together.
 
 Start Over: Means to begin again or start from the beginning. E.g: Should I get rid of all my sofa and start over?
+
+Speed Bumps: (noun) (policia acostado)
+
+Speed up: (phrasal verb) That means to increase the speed or rate of something, making it go faster. 
+
+Slow down: This phrase is commonly used when you want someone or something to decrease its speed. E.g: The driver was asked to slow down in the school zone.

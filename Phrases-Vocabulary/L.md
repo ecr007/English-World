@@ -12,5 +12,10 @@ Let me know if you have any question: Means that are you inviting the person to 
 
 Like: (verb) To have a positive feeling toward someone or something. Past Tense: Liked | Past Participle: Liked | E.g: She liked the new song on the radio. 
 
-Live: (verb) To exist and have life. Past Tense: Lived | Past Participle: Lived | I have lived in this city for ten years.  
+Live: (verb) To exist and have life. Past Tense: Lived | Past Participle: Lived | I have lived in this city for ten years. 
 
+Leash: (noun)
+
+Littering: (noun) 
+
+Liability: (noun) refers to the legal responsibility or obligation an individual or entity has to compensate for any loss, damage, or financial debts arising from their actions or conduct.

@@ -21,3 +21,4 @@ I was **a surfing instructor** in the Dominican Republic: means that at that tim
 In Private: (Phrase) without other people present often because it is a secret. 
 
 I appreciate you getting back to me: Means that the speaker is thankful or grateful for the person responding.
+

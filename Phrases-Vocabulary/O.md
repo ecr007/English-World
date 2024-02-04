@@ -12,5 +12,9 @@ Open to the public: A phrase that lets people know that certain building or serv
 
 Overwhelming: (Adj) Affects you very strongly and you don't know how to deal with it. 
 
+Overcome: (verb) To successfully deal with or prevail over a difficulty or obstacle. Past Tense: Overcame | Past Participle: Overcome | E.g: She overcame her fear of public speaking.
+
+Outcome: (noun) is the final result or a consequence of a particular event or situation.
+
 
 

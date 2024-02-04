@@ -26,3 +26,9 @@ Past participles of verbs (-ed forms) can be used as adjectives. Most come befor
 Many verbs have irregular simple past and past participle forms. These past participle forms do not have -ed ending.
 
 - The key is **bent** and the lock is is **broken**.
+
+<hr />
+
+Put on: (verb) To dress oneself or wear clothing. E.g: I need to put on my coat before going outside.
+
+Pick up: (verb) To lift or grasp something from a surface. E.g: He picked up the book from the table.

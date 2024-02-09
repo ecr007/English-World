@@ -26,3 +26,8 @@ Use **must** and **must not** for formal rules and warnings.
 **No + Gerund** (verb+ing) is used to sighs to say something is prohibited. 
 
 - The sign says **no running**.
+
+<hr />
+
+Employ: (verb) When person or company pays you for work for them. Past Tense: Employed | Past Participle: Employed | E.g: The company employed the new staff for the project.
+

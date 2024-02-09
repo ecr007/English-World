@@ -6,3 +6,7 @@ Convenience: (noun) the state of being able to to proceed with something without
 
 Come: (verb) To approach or arrive at a specific place. Past Tense: Came | Past Participle: Come | E.g: She came to the party with her friends.
 
+Consume: (verb) eat, drink, or use it. Past Tense: Consumed | Past Participle: Consumed | E.g: He consumed a large amount of information during the research.
+
+Convincing: (Adj) believable.
+

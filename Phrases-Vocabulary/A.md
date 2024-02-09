@@ -15,3 +15,6 @@ Ask out: To invite someone you have romantic feeling for on a date.
 Afraid: (Adj) feeling fear, or feeling worry about the possible results of a particular situation.
 
 At least: is used to indicate the lowest possible amount or number. It suggests that the actual amount, number, or situation might be better or greater than what is being stated.
+
+Advertise: (verb) tell people about something in newspaper, on television, or on posters. Past Tense: Advertised | Past Participle: Advertised | E.g: The company advertised its new product on television.
+

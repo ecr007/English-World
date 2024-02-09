@@ -23,3 +23,5 @@ Watch: (verb) To observe something with attention, typically a visual activity. 
 Wait: (verb) To stay in a place expecting something or someone. Past Tense: Waited | Past Participle: Waited | E.g: I waited for the bus for half an hour. 
 
 Wake: (verb) To cease sleeping and become conscious. Past Tense: Woke | Past Participle: Woken | E.g: I wake up early every morning.
+
+Weaknesses: Refers to the limitations, disadvantages or challenges associated with a particular approach, technology or solution.

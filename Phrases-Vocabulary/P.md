@@ -32,3 +32,12 @@ Many verbs have irregular simple past and past participle forms. These past part
 Put on: (verb) To dress oneself or wear clothing. E.g: I need to put on my coat before going outside.
 
 Pick up: (verb) To lift or grasp something from a surface. E.g: He picked up the book from the table.
+
+Positive: (adj) pleasant and helpful. 
+
+Produce: (verb) To make | Past Tense: Produced | Past Participle: Produced | E.g: The factory produced high-quality goods.
+
+Promote: (verb) To help make something happen, increase or become more popular. Past tense: Promoted | Past Participle: Promoted | E.g : The company promote the new product through various marketing channels.
+
+Purchase: (verb) buy something. Past Tense: Purchased | Past Participle: Purchased | E.g: She purchased a new laptop for her work. 
+

@@ -10,3 +10,5 @@ Make: (verb) To create o produce something. Past Tense: Made | Past Participle: 
 
 Meet: (verb) To come into the presence of someone. Past Tense: Met | Past Participle: Met | E.g: I met my friend at the café for coffee.
 
+Manage: (verb) to be responsible for controlling people or a business. Past Tense: Managed | Past Participle: Managed | E.g: She successfully managed the team's project. 
+

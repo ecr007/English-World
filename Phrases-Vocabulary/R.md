@@ -17,3 +17,9 @@ Run into: means to unexpectedly meet or encounter someone or something. E.g I ra
 Run after: (verb) to chase or pursue someone or something by running. E.g: The kids run after the ball in the playground. 
 
 Run away: (verb) to escape by running often implying a desire to leave or avoid a situation. E.g: When the bee buzzed near, the girl wanted to run away. 
+
+Raise: (verb) to lift or move something to a higher position, to increase the amount or level of something. Past Tense: Raised | Past Participle: Raised | E.g: The teacher raised her hand to ask a question. 
+
+Rise: (verb) move from a lower position to higher one; come or go up. Past Tense: Rose | Past Participle: Risen | E.g: The sun rises in the east every **morning**.
+
+Recover: (verb) Become well again. Past Tense: Recovered | Past Participle: Recovered | E.g: He recovered quickly after the surgery. 

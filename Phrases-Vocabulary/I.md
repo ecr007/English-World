@@ -1,4 +1,4 @@
-I don’t do it all: means that the person is not responsible for or does not participate in every aspect or task.
+I don't do it all: means that the person is not responsible for or does not participate in every aspect or task.
 
 I have acquired most of my skills through hard work and dedication.
 
@@ -21,4 +21,11 @@ I was **a surfing instructor** in the Dominican Republic: means that at that tim
 In Private: (Phrase) without other people present often because it is a secret. 
 
 I appreciate you getting back to me: Means that the speaker is thankful or grateful for the person responding.
+
+In a slump: (noun) aren't doing well financially, emotionally, or both. 
+
+Increase: (verb) become greater in number, level or amount. Past Tense: Increased | Past Participle: Increased | E.g: The company increased its production capacity. 
+
+Invest: (verb) Put your money into something in a hope that it will increase in value. Past Tense: Invested | Past Participle: Invested | E.g: He invested his savings in the stock market. 
+
 

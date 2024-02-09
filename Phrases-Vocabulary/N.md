@@ -8,6 +8,8 @@ Neutral: Mild or easily ignored.
 
 None of your business: (Phrase) meaning that you have no right to specific information. 
 
-Know: (verb) To be aware of facts or information. Past Tense: Knew | Past Participle: Known | E.g: He knew the error in the system. 
+Natural Wonders: (noun) thins that not are made by the man. E.g: Grand Canyon in the United State. 
+
+
 
 

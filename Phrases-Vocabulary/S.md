@@ -29,3 +29,16 @@ Speed Bumps: (noun) (policia acostado)
 Speed up: (phrasal verb) That means to increase the speed or rate of something, making it go faster. 
 
 Slow down: This phrase is commonly used when you want someone or something to decrease its speed. E.g: The driver was asked to slow down in the school zone.
+
+Strengths: Refers to the positive attributes or advantage of a particular approach or technology.
+
+Stability: (noun) The state of being stable.
+
+Sharp fall: (noun) is a sudden or significant decline in certain area. E.g: The stock market experienced a sharp fall. 
+
+Ship: (verb) to transport or send goods or items by sea, air or **land**. Past Tense: Shipped | Past Participle: Shipped | E.g: The company shipped its products to various locations by sea. 
+
+Simple: (adj) not complicated and easy to understand.
+
+Sincere: (noun) means genuine, real, or honest.
+

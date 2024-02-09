@@ -16,3 +16,8 @@ Dance: (verb) To move the body rhythmically to music. Past Tense: Danced | Past 
 
 Drop off: (verb) is to deliver or leave someone or something at a specific location.
 
+Develop: (verb) to change over a period of time and becomes more advanced or complete. Past Tense: Developed | Past Participle: Developed | E.g: The programmer developed the software in x code. 
+
+Down: (adj) felling unhappy or depressed.
+
+Dramatic increase: (noun) a sudden and is very noticeable rise in something. 

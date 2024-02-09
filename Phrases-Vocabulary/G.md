@@ -6,7 +6,7 @@ Grips: is a verb that means to grasp or seize something firmly, or to hold fast.
 
 Get Back: means to return to previous location or position. 
 
-Get better: means to improve or recover one's health. E.g: I'm getting better. 
+Get better: Become healthier when you were previously ill. E.g: I'm getting better. 
 
 Go Ahead: means to proceed or continue with a task or action. It suggests there are no obstacles to moving forward.
 

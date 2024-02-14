@@ -22,3 +22,5 @@ Down: (adj) felling unhappy or depressed.
 
 Dramatic increase: (noun) a sudden and is very noticeable rise in something. 
 
+Discouraged: (adj) Having lost your confidence for something. 
+

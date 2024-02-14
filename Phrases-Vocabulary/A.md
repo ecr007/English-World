@@ -6,8 +6,6 @@ Advice: (noun) guidance or recommendations offered with regard to prudent future
 
 All the time: Implies that a certain action or situation is happening frequently.
 
-Although: (Conjunction) (A pesar de) is a subordinating conjunction. Fallowed by a clause, can link clauses. E.g: Although the weather is cold, everybody is out. E.g 2: Although my card is very old, it still runs very well.
-
 Against: (preposition) is a preposition that shows opposition, contradiction, or conflicting action towards something or someone. | E.g: The students protested against the new school policy. 
 
 Ask out: To invite someone you have romantic feeling for on a date.

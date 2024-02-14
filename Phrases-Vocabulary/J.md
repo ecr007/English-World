@@ -1,0 +1,1 @@
+Jet Lag: (noun) a condition that is characterized by various psychological and physiological effect following long flight through several time zones. 

@@ -16,5 +16,5 @@ Overcome: (verb) To successfully deal with or prevail over a difficulty or obsta
 
 Outcome: (noun) is the final result or a consequence of a particular event or situation.
 
-
+Overdo: (verb) To do something excessively or to an excessive degree. Past Tense: Overdid | Past Tense: Overdone | E.g: He overdoes his workouts at the gym, often pushing himself to the point of exhaustion.
 

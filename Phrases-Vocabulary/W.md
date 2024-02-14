@@ -25,3 +25,7 @@ Wait: (verb) To stay in a place expecting something or someone. Past Tense: Wait
 Wake: (verb) To cease sleeping and become conscious. Past Tense: Woke | Past Participle: Woken | E.g: I wake up early every morning.
 
 Weaknesses: Refers to the limitations, disadvantages or challenges associated with a particular approach, technology or solution.
+
+We have identified this issue and a fix is being implemented.
+
+Word-of-mouth: refers to the passing of information or recommendations from one person to another through informal communication.

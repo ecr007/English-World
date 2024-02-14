@@ -35,9 +35,18 @@ Pick up: (verb) To lift or grasp something from a surface. E.g: He picked up the
 
 Positive: (adj) pleasant and helpful. 
 
+Pleasant: (adj) Friendly and likeable. 
+
 Produce: (verb) To make | Past Tense: Produced | Past Participle: Produced | E.g: The factory produced high-quality goods.
 
 Promote: (verb) To help make something happen, increase or become more popular. Past tense: Promoted | Past Participle: Promoted | E.g : The company promote the new product through various marketing channels.
 
 Purchase: (verb) buy something. Past Tense: Purchased | Past Participle: Purchased | E.g: She purchased a new laptop for her work. 
 
+Pays Attention: means to be attentive or focused on something, giving it your full concentration. 
+
+Purpose: (noun) The reason for which something is done or create or for which something exist. E.g: The purpose of the meeting is to finish the project.
+
+Polite: (adj) has a good manners and is not rude to other people. 
+
+Paid time off (**PTO**) is a human resource management (HRM) policy that provides employees with a pool of bankable hours that can be used for any purpose. 

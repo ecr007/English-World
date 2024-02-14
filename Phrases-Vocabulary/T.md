@@ -8,6 +8,8 @@ Troubleshooting: is a systematic approach to solving a problem. The goal of the 
 
 Though: (conjunction) (aunque o sin embargo) : Is often used to introduce a contrast or concession in a sentence. E.g Though he studied hard, he didn't perform well in the exam.
 
+Although: (Conjunction) (A pesar de) is a subordinating conjunction. Fallowed by a clause, can link clauses. E.g: Although the weather is cold, everybody is out. E.g 2: Although my car is very old, it still runs very well.
+
 The general public: (noun) All the people om a country or community. 
 
 Take: (verb) To move or carry something from one place to another. Past Tense: Took | Past participle: Taken | E.g: I took my car for repair last week.

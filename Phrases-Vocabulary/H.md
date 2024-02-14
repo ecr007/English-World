@@ -19,3 +19,5 @@ Hope: (verb) To desire or wish for a specific outcome or event. Past Tense: Hope
 Hate: (verb) To strongly dislike or have a strong aversion towards someone or something. Past Tense: Hated | Past Participle: Hated | E.g: I hated the taste of that food. 
 
 Hesitate: (verb) pause in indecision before saying or doing something. Past Tense: Hesitated | Past Participle: Hesitate | E.g: She hesitated before answering the question. 
+
+Honest: (adj) always tell the truth, and do not try to deceive people or break the law.  

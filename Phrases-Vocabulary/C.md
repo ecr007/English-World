@@ -10,3 +10,11 @@ Consume: (verb) eat, drink, or use it. Past Tense: Consumed | Past Participle: C
 
 Convincing: (Adj) believable.
 
+Custom: (noun) a traditional and widely accepted way of behaving or doing something that is specific to a particular society, place or time. E.g: The old English custom of dancing round maypole. (Tradition)
+
+Calm down: is used to encourage someone to relax and become less emotional or agitated. 
+
+COGS: stands for Cost of Goods Sold. It's a business expense that represents the total cost of producing or acquiring goods or services to sell.
+
+Cost-Effective: means that something provides value for the cost it requires, or that it achieves its desired outcome without spending excessive amounts of money.
+

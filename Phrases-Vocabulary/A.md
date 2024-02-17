@@ -16,12 +16,6 @@ At least: is used to indicate the lowest possible amount or number. It suggests 
 
 Advertise: (verb) tell people about something in newspaper, on television, or on posters. Past Tense: Advertised | Past Participle: Advertised | E.g: The company advertised its new product on television.
 
-<table>
-    <tr><th>First Header</th><th>Second Header</th></tr>
-    <tr><td>Content Cell</td><td>Content Cell</td></tr>
-    <tr><td>Content Cell</td><td>Content Cell</td></tr>
-</table>
-
 ## Adverbs used with the present perfect
 
 |                  | With Questions                            | With Affirmative Verbs                  | With Negative Verbs                       |
@@ -32,9 +26,8 @@ Advertise: (verb) tell people about something in newspaper, on television, or on
 | Still            |                                           |                                        | I still haven't taken a shower.           |
 | Already          | Have you already taken a shower? <br> Have you taken a shower already? | I've already taken a shower. <br> I've already taken a shower already. |                                           |
 | Just             |                                           | I've just finished shaving.             |                                           |
-| **Ever:** means "at any time." Note: I haven't ever = I've never |
 
-
+**Ever:** means "at any time." Note: I haven't ever = I've never
 
 **Never:** means "not at any time." Its used an affirmative verb and made the meaning of the sentence negative. You can add the word "before" for emphasis.
 

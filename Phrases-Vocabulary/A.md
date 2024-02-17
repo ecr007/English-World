@@ -23,86 +23,82 @@ Advertise: (verb) tell people about something in newspaper, on television, or on
 </table>
 
 <table border="1">
-	<thead>
-		<tr>
-			<th colspan="4" style="font-size: 18px;">Adverbs used with the present perfect</th>
-		</tr>
-	</thead>
+	<tr>
+		<th colspan="4" style="font-size: 18px;">Adverbs used with the present perfect</th>
+	</tr>
 
-	<tbody>
-		<tr>
-			<th></th>
-			<th>With Questions</th>
-			<th>With Affirmative Verbs</th>
-			<th>With Negative Verbs</th>
-		</tr>
+	<tr>
+		<th></th>
+		<th>With Questions</th>
+		<th>With Affirmative Verbs</th>
+		<th>With Negative Verbs</th>
+	</tr>
 
-		<tr>
-			<td>Ever</td>
-			<td>Have you ever worn makeup?</td>
-			<td></td>
-			<td>I haven't ever worn makeup.</td>
-		</tr>
+	<tr>
+		<td>Ever</td>
+		<td>Have you ever worn makeup?</td>
+		<td></td>
+		<td>I haven't ever worn makeup.</td>
+	</tr>
 
-		<tr>
-			<td>Never</td>
-			<td></td>
-			<td>I've never worn makeup (before)</td>
-			<td></td>
-		</tr>
+	<tr>
+		<td>Never</td>
+		<td></td>
+		<td>I've never worn makeup (before)</td>
+		<td></td>
+	</tr>
 
-		<tr>
-			<td>Yet</td>
-			<td>Have you taken a shower yet?</td>
-			<td></td>
-			<td>I haven't taken a shower yer.</td>
-		</tr>
+	<tr>
+		<td>Yet</td>
+		<td>Have you taken a shower yet?</td>
+		<td></td>
+		<td>I haven't taken a shower yer.</td>
+	</tr>
 
-		<tr>
-			<td>Still</td>
-			<td></td>
-			<td></td>
-			<td>I still haven't taken a shower.</td>
-		</tr>
+	<tr>
+		<td>Still</td>
+		<td></td>
+		<td></td>
+		<td>I still haven't taken a shower.</td>
+	</tr>
 
-		<tr>
-			<td>Already</td>
-			<td>Have you already taken a shower? <br> Have you taken a shower already?</td>
-			<td>I've already taken a shower. <br> I've already taken a shower already.</td>
-			<td></td>
-		</tr>
+	<tr>
+		<td>Already</td>
+		<td>Have you already taken a shower? <br> Have you taken a shower already?</td>
+		<td>I've already taken a shower. <br> I've already taken a shower already.</td>
+		<td></td>
+	</tr>
 
-		<tr>
-			<td>Just</td>
-			<td></td>
-			<td>I've just finished shaving.</td>
-			<td></td>
-		</tr>
+	<tr>
+		<td>Just</td>
+		<td></td>
+		<td>I've just finished shaving.</td>
+		<td></td>
+	</tr>
 
-		<tr>
-			<td colspan="4">Ever: means "at any time." Note: I haven't ever = I've never</td>
-		</tr>
+	<tr>
+		<td colspan="4">Ever: means "at any time." Note: I haven't ever = I've never</td>
+	</tr>
 
-		<tr>
-			<td colspan="2">Never: means "not at any time." Its used an affirmative verb and made the meaning of the sentence negative. </td>
-			<td colspan="2">You can add the word "before" for emphasis. </td>
-		</tr>
+	<tr>
+		<td colspan="2">Never: means "not at any time." Its used an affirmative verb and made the meaning of the sentence negative. </td>
+		<td colspan="2">You can add the word "before" for emphasis. </td>
+	</tr>
 
-		<tr>
-			<td colspan="4">Yet: means "up to or until the present time" or "thus far"</td>
-		</tr>
+	<tr>
+		<td colspan="4">Yet: means "up to or until the present time" or "thus far"</td>
+	</tr>
 
-		<tr>
-			<td colspan="4">Still: has similar meaning to yet. It is used for situation that have continued for longer than expected.</td>
-		</tr>
+	<tr>
+		<td colspan="4">Still: has similar meaning to yet. It is used for situation that have continued for longer than expected.</td>
+	</tr>
 
-		<tr>
-			<td colspan="4">Already: means something happened and not longer needs to be done.</td>
-		</tr>
+	<tr>
+		<td colspan="4">Already: means something happened and not longer needs to be done.</td>
+	</tr>
 
-		<tr>
-			<td colspan="4">Just: means very recently.</td>
-		</tr>
-	</tbody>
+	<tr>
+		<td colspan="4">Just: means very recently.</td>
+	</tr>
 </table>
 

@@ -22,82 +22,26 @@ Advertise: (verb) tell people about something in newspaper, on television, or on
     <tr><td>Content Cell</td><td>Content Cell</td></tr>
 </table>
 
-<table >
-	<tr>
-		<th>Adverbs used with the present perfect</th>
-	</tr>
+# Adverbs used with the present perfect
 
-	<tr>
-		<th>dd</th>
-	</tr>
+|                  | With Questions                            | With Affirmative Verbs                  | With Negative Verbs                       |
+|------------------|-------------------------------------------|----------------------------------------|-------------------------------------------|
+| Ever             | Have you ever worn makeup?                 |                                        | I haven't ever worn makeup.                |
+| Never            |                                           | I've never worn makeup (before)         |                                           |
+| Yet              | Have you taken a shower yet?               |                                        | I haven't taken a shower yet.              |
+| Still            |                                           |                                        | I still haven't taken a shower.           |
+| Already          | Have you already taken a shower? <br> Have you taken a shower already? | I've already taken a shower. <br> I've already taken a shower already. |                                           |
+| Just             |                                           | I've just finished shaving.             |                                           |
 
-</table >
+**Ever:** means "at any time." Note: I haven't ever = I've never
 
-	<tr>
-		<td>Ever</td>
-		<td>Have you ever worn makeup?</td>
-		<td></td>
-		<td>I haven't ever worn makeup.</td>
-	</tr>
+**Never:** means "not at any time." Its used an affirmative verb and made the meaning of the sentence negative. You can add the word "before" for emphasis.
 
-	<tr>
-		<td>Never</td>
-		<td></td>
-		<td>I've never worn makeup (before)</td>
-		<td></td>
-	</tr>
+**Yet:** means "up to or until the present time" or "thus far"
 
-	<tr>
-		<td>Yet</td>
-		<td>Have you taken a shower yet?</td>
-		<td></td>
-		<td>I haven't taken a shower yer.</td>
-	</tr>
+**Still:** has similar meaning to yet. It is used for situations that have continued for longer than expected.
 
-	<tr>
-		<td>Still</td>
-		<td></td>
-		<td></td>
-		<td>I still haven't taken a shower.</td>
-	</tr>
+**Already:** means something happened and not longer needs to be done.
 
-	<tr>
-		<td>Already</td>
-		<td>Have you already taken a shower? <br> Have you taken a shower already?</td>
-		<td>I've already taken a shower. <br> I've already taken a shower already.</td>
-		<td></td>
-	</tr>
-
-	<tr>
-		<td>Just</td>
-		<td></td>
-		<td>I've just finished shaving.</td>
-		<td></td>
-	</tr>
-
-	<tr>
-		<td colspan="4">Ever: means "at any time." Note: I haven't ever = I've never</td>
-	</tr>
-
-	<tr>
-		<td colspan="2">Never: means "not at any time." Its used an affirmative verb and made the meaning of the sentence negative. </td>
-		<td colspan="2">You can add the word "before" for emphasis. </td>
-	</tr>
-
-	<tr>
-		<td colspan="4">Yet: means "up to or until the present time" or "thus far"</td>
-	</tr>
-
-	<tr>
-		<td colspan="4">Still: has similar meaning to yet. It is used for situation that have continued for longer than expected.</td>
-	</tr>
-
-	<tr>
-		<td colspan="4">Already: means something happened and not longer needs to be done.</td>
-	</tr>
-
-	<tr>
-		<td colspan="4">Just: means very recently.</td>
-	</tr>
-</table>
+**Just:** means very recently.
 

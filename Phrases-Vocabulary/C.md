@@ -18,3 +18,5 @@ COGS: stands for Cost of Goods Sold. It's a business expense that represents the
 
 Cost-Effective: means that something provides value for the cost it requires, or that it achieves its desired outcome without spending excessive amounts of money.
 
+Catch: (verb) Intercept and hold. Past Tense: Caught | Past participle: Caught | e.g: The exception was caught by the log system. PK => Ca~~ugh~~t.
+

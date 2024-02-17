@@ -4,13 +4,13 @@ Boomerang Kid: a young adult who, after having lived on his or her own for a tim
 
 Begin: (verb) is start or initiate something. Past Tense: Began | Past Participle: Begun | E.g: The meeting began at 9 AM.
 
-Become: (verb) Begin to be. Past Tense: Became | Past Participle: Become | E.g: She become angry and sulked all day. 
+Become: (verb) Begin to be. Past Tense: Became | Past Participle: Become | E.g: You must study hard to become a senior developer. 
 
 Brief: (noun) a set of instructions given to a person about a job or task.
 
 Be: (verb) To exists or have particular quality. Past Tense: Was/Were | Past Participle: Been | E.g: I was happy to see you.
 
-Buy: (verb) To acquire something by paying for it. Past Tense: Bought | Past Participle: Bought | E.g: We bought a new car last month. 
+Buy: (verb) To acquire something by paying for it. Past Tense: Bought | Past Participle: Bought | E.g: We bought a new car last month. | Pronounce key: Bo~~ugh~~t
 
 Bright: (Adj) giving out or reflecting much light; shining. E.g: A bright room has a lot of natural light and feels cheerful and vibrant. 
 

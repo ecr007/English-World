@@ -18,3 +18,5 @@ Outcome: (noun) is the final result or a consequence of a particular event or si
 
 Overdo: (verb) To do something excessively or to an excessive degree. Past Tense: Overdid | Past Tense: Overdone | E.g: He overdoes his workouts at the gym, often pushing himself to the point of exhaustion.
 
+On cloud nine: To be extremely happy and excited. E.g: He's been on cloud nine ever since she agreed to marry him.
+

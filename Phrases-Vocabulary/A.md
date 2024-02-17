@@ -16,6 +16,12 @@ At least: is used to indicate the lowest possible amount or number. It suggests 
 
 Advertise: (verb) tell people about something in newspaper, on television, or on posters. Past Tense: Advertised | Past Participle: Advertised | E.g: The company advertised its new product on television.
 
+<table>
+    <tr><th>First Header</th><th>Second Header</th></tr>
+    <tr><td>Content Cell</td><td>Content Cell</td></tr>
+    <tr><td>Content Cell</td><td>Content Cell</td></tr>
+</table>
+
 <table border="1">
 	<thead>
 		<tr>

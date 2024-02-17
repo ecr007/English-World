@@ -22,7 +22,7 @@ Advertise: (verb) tell people about something in newspaper, on television, or on
     <tr><td>Content Cell</td><td>Content Cell</td></tr>
 </table>
 
-# Adverbs used with the present perfect
+## Adverbs used with the present perfect
 
 |                  | With Questions                            | With Affirmative Verbs                  | With Negative Verbs                       |
 |------------------|-------------------------------------------|----------------------------------------|-------------------------------------------|
@@ -32,8 +32,9 @@ Advertise: (verb) tell people about something in newspaper, on television, or on
 | Still            |                                           |                                        | I still haven't taken a shower.           |
 | Already          | Have you already taken a shower? <br> Have you taken a shower already? | I've already taken a shower. <br> I've already taken a shower already. |                                           |
 | Just             |                                           | I've just finished shaving.             |                                           |
+| **Ever:** means "at any time." Note: I haven't ever = I've never |
 
-**Ever:** means "at any time." Note: I haven't ever = I've never
+
 
 **Never:** means "not at any time." Its used an affirmative verb and made the meaning of the sentence negative. You can add the word "before" for emphasis.
 

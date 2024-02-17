@@ -22,9 +22,9 @@ Advertise: (verb) tell people about something in newspaper, on television, or on
     <tr><td>Content Cell</td><td>Content Cell</td></tr>
 </table>
 
-<table border="1">
+<table >
 	<tr>
-		<th colspan="4" style="font-size: 18px;">Adverbs used with the present perfect</th>
+		<th>Adverbs used with the present perfect</th>
 	</tr>
 
 	<tr>
@@ -33,6 +33,8 @@ Advertise: (verb) tell people about something in newspaper, on television, or on
 		<th>With Affirmative Verbs</th>
 		<th>With Negative Verbs</th>
 	</tr>
+
+</table >
 
 	<tr>
 		<td>Ever</td>

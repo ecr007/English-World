@@ -29,9 +29,6 @@ Advertise: (verb) tell people about something in newspaper, on television, or on
 
 	<tr>
 		<th>dd</th>
-		<th>With Questions</th>
-		<th>With Affirmative Verbs</th>
-		<th>With Negative Verbs</th>
 	</tr>
 
 </table >

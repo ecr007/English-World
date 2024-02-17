@@ -30,7 +30,7 @@ Advertise: (verb) tell people about something in newspaper, on television, or on
 **Ever:** means "at any time." Note: I haven't ever = I've never
 
 **Never:** means "not at any time." Its used an affirmative verb and made the meaning of the sentence negative.
-You can add the word "before" for emphasis.
+<br>You can add the word "before" for emphasis.
 
 **Yet:** means "up to or until the present time" or "thus far"
 

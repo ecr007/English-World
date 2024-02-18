@@ -56,11 +56,10 @@ Paid time off (**PTO**) is a human resource management (HRM) policy that provide
 |                  |                                        |
 |------------------|----------------------------------------|
 | Please turn on the TV <br> Erin ran into Alex yesterday | English has many two world (phrasal) verbs. These verb has a verb (like turn or run) and a small word. <br> (Like: at, along, back, down, in, on, out, over, up, with). |
-| Never            |                                           |
-| Yet              | Have you taken a shower yet?              |
-| Still            |                                           |
-| Already          | Have you already taken a shower? <br> Have you taken a shower already? |
-| Just             |                                           |
+| Please turn on the TV <br> Please turn the TV/ it on <br> ~~Please turn on it~~ | Some phrasal verb are separable. This means the object (Noun or pronoun) can separate the phrasal verb.<br>With separable phrasal verbs. The pronoun cannot follow the phrasal verb. |
+| Erin **ran into** Alex / Him yesterday. | Many phrasal verb are inseparable. This mean the object (a noun or pronoun) |
+| She **grew up** in Mexico City. | Some phrasal verb do not take an object. |
+| Do you **get along** with Max?<br> Did Sean ask her out? <br> When did they **break up**? <br> Have you ever gone out with him? | Form question with phrasal verbs the same way you do with other verbs. |
 
 **Ever:** means "at any time." Note: I haven't ever = I've never
 

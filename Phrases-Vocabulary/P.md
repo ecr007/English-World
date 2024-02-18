@@ -53,6 +53,7 @@ Paid time off (**PTO**) is a human resource management (HRM) policy that provide
 
 ## Phrasal Verbs 
 
+|                  |                                        |
 |------------------|----------------------------------------|
 | Please turn on the TV <br> Erin ran into Alex yesterday | English has many two world (phrasal) verbs. These verb has a verb (like turn or run) and a small word. <br> (Like: at, along, back, down, in, on, out, over, up, with). |
 | Never            |                                           |

@@ -50,3 +50,29 @@ Purpose: (noun) The reason for which something is done or create or for which so
 Polite: (adj) has a good manners and is not rude to other people. 
 
 Paid time off (**PTO**) is a human resource management (HRM) policy that provides employees with a pool of bankable hours that can be used for any purpose. 
+
+## Phrasal Verbs 
+
+| Please turn on the TV \ Erin ran into Alex yesterday | English has many two world (phrasal) verbs. These verb has a verb (like turn or run) and a small word. \ (Like: at, along, back, down, in, on, out, over, up, with). |
+|------------------|-------------------------------------------|
+| Please turn on the TV \  | Have you ever worn makeup?                |
+| Never            |                                           |
+| Yet              | Have you taken a shower yet?              |
+| Still            |                                           |
+| Already          | Have you already taken a shower? <br> Have you taken a shower already? |
+| Just             |                                           |
+
+**Ever:** means "at any time." Note: I haven't ever = I've never
+
+**Never:** means "not at any time." Its used an affirmative verb and made the meaning of the sentence negative.
+<br>You can add the word "before" for emphasis.
+
+**Yet:** means "up to or until the present time" or "thus far"
+
+**Still:** has similar meaning to yet. It is used for situations that have continued for longer than expected.
+
+**Already:** means something happened and not longer needs to be done.
+
+**Just:** means very recently.
+
+<hr>

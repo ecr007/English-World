@@ -61,7 +61,7 @@ Paid time off (**PTO**) is a human resource management (HRM) policy that provide
 | She **grew up** in Mexico City. | Some phrasal verb do not take an object. |
 | Do you **get along** with Max?<br> Did Sean ask her out? <br> When did they **break up**? <br> Have you ever gone out with him? | Form question with phrasal verbs the same way you do with other verbs. |
 | ... | ... | ... |
-| Separable Phrasal Verbs | Inseparable Phrasal Verbs |
+| **Separable Phrasal Verbs** | **Inseparable Phrasal Verbs** |
 | Ask (someone) out | break up (someone) |
 | Give (something) up = "to stop doing something" | Cheat on (someone) |
 | Turn (something) down | Get alone (with someone) |

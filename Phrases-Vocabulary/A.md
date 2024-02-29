@@ -42,3 +42,6 @@ Advertise: (verb) tell people about something in newspaper, on television, or on
 
 <hr>
 
+Approach: (verb) to come near or closer to someone or something; to deal with or handle a situation. Past Tense: Approached | Past Participle: Approached | E.g: She quickly approached the solutions. 
+
+As far as I can tell: means base on the information or knowledge that I currently have. E.g: As far as I can tell, you're completely healthy. 

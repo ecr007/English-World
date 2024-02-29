@@ -42,3 +42,10 @@ Simple: (adj) not complicated and easy to understand.
 
 Sincere: (noun) means genuine, real, or honest.
 
+Slump: (noun) a sudden decline or drop in performance or value.
+
+Steady decline: means a continuous decrease or reduction over time without significant fluctuations or interruptions.
+
+Shiver: (verb) to shake because of the cold. Past tense: Shivered | Past Participle: Shivered | E.g: Then he started to shiver uncontrollably. 
+
+Symptom: (noun) something wrong with your body. E.g: Symptom of heart attack.  

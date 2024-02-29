@@ -7,3 +7,5 @@ Feel: (verb) To perceive or experience a sensation or emotion. Past Tense: Felt 
 Find: (verb) To discover or locate something that was previously unknown. Past Tense: Found | Past Participle: Found | E.g: She found her lost keys in the living room.
 
 Found: (verb) Establish or originate. Past Tense: Founded | Past Participle: Founded | E.g: Beverly Smith founded your company in 1935.
+
+Fell off: (verb) to drop unintentionally to the ground from (a high object, bicycle, etc). E.g: I fell of my bike.  

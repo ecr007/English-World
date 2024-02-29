@@ -65,7 +65,7 @@ Paid time off (**PTO**) is a human resource management (HRM) policy that provide
 | **Ask** (someone) **out** | **break up** (someone) |
 | **Give** (something) **up** = "to stop doing something" | **Cheat on** (someone) |
 | **Turn** (something) **down** | **Get alone** (with someone) |
-| **Turn** (something) **on** / off | **Go out** (someone) |
+| **Turn** (something) **on** / **off** | **Go out** (someone) |
 |  | **Grow up** |
 |  | **Make up** (with someone) = "to forgive someone and become friends again" |
 |  | **Run into** (someone) |

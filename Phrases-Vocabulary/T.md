@@ -28,5 +28,7 @@ Take off: (verb)
 
 	1. To leave the ground: “The plane will take off in 30 minutes.” In this sense, it refers to the moment when an aircraft leaves the ground and starts flying.
 
-	2. To remove clothing or accessories: “It’s hot, so I’m going to take off my jacket.” This means to take off or remove something that you are wearing.
+	2. To remove clothing or accessories: “It's hot, so I'’'m going to take off my jacket.” This means to take off or remove something that you are wearing.
+
+Take care: (verb) be cautions; keep one self safe. E.g: Take care if you are planning to go out tonight. 
 

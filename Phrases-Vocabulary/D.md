@@ -24,3 +24,8 @@ Dramatic increase: (noun) a sudden and is very noticeable rise in something.
 
 Discouraged: (adj) Having lost your confidence for something. 
 
+Deodorant: is a personal care product that helps to mask or eliminate body odor caused by bacterial growth.
+
+Drowsy: (Adj) Sleepy
+
+Dizzy: (Adj) Unable to balance.

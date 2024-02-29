@@ -20,3 +20,7 @@ Cost-Effective: means that something provides value for the cost it requires, or
 
 Catch: (verb) Intercept and hold. Past Tense: Caught | Past participle: Caught | e.g: The exception was caught by the log system. PK => Ca~~ugh~~t.
 
+Can you do that? : means asking someone if they are able capable or doing a certain task or action.
+
+Check it Out: (verb) investigate, or examine something or someone.
+

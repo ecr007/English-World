@@ -32,4 +32,4 @@ Get on: (verb) To enter or board a vehicle, such bus, train or plane. E.g: Pleas
 
 Get off: (verb) To physically disembark or descend from a vehicle or a mode of transportation. E.g: I get off the bus at the next stop.
 
-
+Getting worse: means deteriorating or declining in quality, condition, or situation. E.g: The hotel's situation is getting worse. In the past month, they have lost 50 employees.

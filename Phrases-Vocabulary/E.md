@@ -32,3 +32,8 @@ Use **must** and **must not** for formal rules and warnings.
 Employ: (verb) When person or company pays you for work for them. Past Tense: Employed | Past Participle: Employed | E.g: The company employed the new staff for the project.
 
 Eye contact: (noun) communication that occurs between two people with their eyes.
+
+Encourage: to support someone's decision or behavior. Past tense: Encouraged | Past Participle: Encouraged | E.g: We were encouraged by the success of this venture. 
+
+Exhausted: (Adj) Very tired.
+

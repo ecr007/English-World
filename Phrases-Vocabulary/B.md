@@ -17,3 +17,11 @@ Bright: (Adj) giving out or reflecting much light; shining. E.g: A bright room h
 Besides: (?)
 
 Break Up: To end a romantic relationship.
+
+buyer’s remorse: feeling regret or disappointment over something you bought 
+
+bargain: a good, low price.
+
+Be up: in financial terms means that the value or price of something has increased or gone up.
+
+Breathe: (verb) to take air into you body | Past Tense: Breathed | Past Participle: Breathed | E.g: His breathing was slowing down.

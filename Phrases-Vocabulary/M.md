@@ -12,3 +12,5 @@ Meet: (verb) To come into the presence of someone. Past Tense: Met | Past Partic
 
 Manage: (verb) to be responsible for controlling people or a business. Past Tense: Managed | Past Participle: Managed | E.g: She successfully managed the team's project. 
 
+Make sense (phrasal) To be easy to understand.
+

@@ -29,3 +29,5 @@ Weaknesses: Refers to the limitations, disadvantages or challenges associated wi
 We have identified this issue and a fix is being implemented.
 
 Word-of-mouth: refers to the passing of information or recommendations from one person to another through informal communication.
+
+Weak: (adj) not strong.

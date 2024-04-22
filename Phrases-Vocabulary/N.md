@@ -10,6 +10,5 @@ None of your business: (Phrase) meaning that you have no right to specific infor
 
 Natural Wonders: (noun) thins that not are made by the man. E.g: Grand Canyon in the United State. 
 
-
-
+No one is above de law.
 

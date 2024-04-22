@@ -49,3 +49,7 @@ Steady decline: means a continuous decrease or reduction over time without signi
 Shiver: (verb) to shake because of the cold. Past tense: Shivered | Past Participle: Shivered | E.g: Then he started to shiver uncontrollably. 
 
 Symptom: (noun) something wrong with your body. E.g: Symptom of heart attack.  
+
+Sit: (verb) to rest one's weight on one's buttocks or another part of the body supported by a surface. Past Tense: sat | Past Participle: sat | e.g: He sat on the bench and enjoyed the view.
+
+Skyscraper: is a very tall building with multiple floors.

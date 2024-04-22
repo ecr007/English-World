@@ -24,3 +24,8 @@ Can you do that? : means asking someone if they are able capable or doing a cert
 
 Check it Out: (verb) investigate, or examine something or someone.
 
+Cough: (verb) to expel air suddenly and noisily from the lungs, typically to clear the throat or due to irritation. | Past tense: Coughed | Past Participle: Coughed | E.g: My throat feels dry, I think that's why I've been coughing so much.
+
+Call in sick: to inform to your employer that you are unable to come to work because you are unwell.
+
+Career: (noun) an occupation undertaken for a significant period of a person's life and with opportunities for progress.

@@ -31,3 +31,10 @@ We have identified this issue and a fix is being implemented.
 Word-of-mouth: refers to the passing of information or recommendations from one person to another through informal communication.
 
 Weak: (adj) not strong.
+
+Wear: (verb) to have something on one's body as clothing or an accessory. Past Tense: Wore | Past Participle: Worn | E.g I didn't wear a jacket because it is too hot. 
+
+While you were out: is a message left for someone who was not present or available when some tried to reach them. 
+
+We're running behind scheduled in your job: It means we are not progressing as quickly as planned on your job. 
+

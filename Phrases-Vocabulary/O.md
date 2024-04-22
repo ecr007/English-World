@@ -20,3 +20,6 @@ Overdo: (verb) To do something excessively or to an excessive degree. Past Tense
 
 On cloud nine: To be extremely happy and excited. E.g: He's been on cloud nine ever since she agreed to marry him.
 
+Ongoing: (Adj) Continuing; still in progress. E.g: The project is ongoing.
+
+On average, how much time does a fullstack developer spend in a job?

@@ -32,3 +32,5 @@ Take off: (verb)
 
 Take care: (verb) be cautions; keep one self safe. E.g: Take care if you are planning to go out tonight. 
 
+Treat: (verb) means to behave towards someone in particular way, often in a kind or generous manner. Past Tense: treated | Past participle: treated | E.g; He treated her with grave courtesy. 
+

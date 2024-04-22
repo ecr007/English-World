@@ -29,3 +29,6 @@ Increase: (verb) become greater in number, level or amount. Past Tense: Increase
 Invest: (verb) Put your money into something in a hope that it will increase in value. Past Tense: Invested | Past Participle: Invested | E.g: He invested his savings in the stock market. 
 
 
+It took something like 3 months to finish. 
+
+I hope you are doing very well: means that the speaker wishes for the other person to be in good health and happy.

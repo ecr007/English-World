@@ -29,3 +29,7 @@ Deodorant: is a personal care product that helps to mask or eliminate body odor 
 Drowsy: (Adj) Sleepy
 
 Dizzy: (Adj) Unable to balance.
+
+Don't boss me around: is "Don't tell me what to do" or "Don't give me orders".
+
+Did the power go out? The question is asking if the electricity stopped working.

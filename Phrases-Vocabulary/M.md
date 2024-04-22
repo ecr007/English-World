@@ -14,3 +14,8 @@ Manage: (verb) to be responsible for controlling people or a business. Past Tens
 
 Make sense (phrasal) To be easy to understand.
 
+Might as well: means that there is a slight advantage or benefit to doing something, so you should do it. | E.g: Since we have some extra time before the meeting, we might as well review our notes.
+
+Maintenance: (noun) the process of preserving a condition or situation. E.g: Software Maintenance is important because it fixes error and improves performance. 
+
+

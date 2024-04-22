@@ -23,3 +23,5 @@ Hesitate: (verb) pause in indecision before saying or doing something. Past Tens
 Honest: (adj) always tell the truth, and do not try to deceive people or break the law.  
 
 Happen: (verb) take place. Past Tense: Happened | Past participle: Happened | e.g: Two hours had passed and still nothing had happened. 
+
+Hypothetical Situation: is when someone pretends to believe something that they do not, or does something that contradict what they say. 

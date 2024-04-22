@@ -18,10 +18,14 @@ Besides: (?)
 
 Break Up: To end a romantic relationship.
 
-buyer’s remorse: feeling regret or disappointment over something you bought 
+buyer's remorse: feeling regret or disappointment over something you bought. 
 
 bargain: a good, low price.
 
 Be up: in financial terms means that the value or price of something has increased or gone up.
 
-Breathe: (verb) to take air into you body | Past Tense: Breathed | Past Participle: Breathed | E.g: His breathing was slowing down.
+Breathe: (verb) to take air into you body | Past Tense: Breathed | Past Participle: Breathed | E.g: John is going to the country because he wants to breathe some fresh country air.
+
+By means of: Por medio de. To do something using a particular method, instrument or process. 
+
+Bother: (verb) to make the effort to do something. Past Tense: Bothered | Past Participle: Bothered. E.g: He hasn't even bothered to write. 

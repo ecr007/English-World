@@ -21,3 +21,5 @@ Liability: (noun) refers to the legal responsibility or obligation an individual
 Land: (noun) The part of the earth's surface that is not covered by water.
 
 Language Barrier: (noun) refers to the communication difficulty that arises when people who speak different languages are unable to understand each other.
+
+Lately: (Adverb) Recently; not long ago. E.g: She hasn't been looking to well lately. 

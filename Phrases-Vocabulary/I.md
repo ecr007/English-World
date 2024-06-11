@@ -32,3 +32,13 @@ Invest: (verb) Put your money into something in a hope that it will increase in 
 It took something like 3 months to finish. 
 
 I hope you are doing very well: means that the speaker wishes for the other person to be in good health and happy.
+
+Independent: (adj) free from outside control.
+
+Intelligent: (adj) Having or showing intelligence. E.g: Evert is intelligent and hard-working. Similar word: Clever, Bright, Quick. 
+
+In charge: means to be responsible for or have authority over something or someone. 
+
+I owe you one: means that you feel grateful to someone for doing something for you and you will return the favor in the future. 
+
+I could kick myself: feeling regretful or annoyed with oneself for making a mistake or missing an opportunity.

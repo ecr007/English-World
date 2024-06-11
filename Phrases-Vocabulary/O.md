@@ -23,3 +23,7 @@ On cloud nine: To be extremely happy and excited. E.g: He's been on cloud nine e
 Ongoing: (Adj) Continuing; still in progress. E.g: The project is ongoing.
 
 On average, how much time does a fullstack developer spend in a job?
+
+Outlook: (noun) a person's point of view or general attitude to life. E.g: He had a practical outlook on life.
+
+Once in a while: means occasionally or not very often. E.g: Once in a while it doesn't hurt to be reminded about the important thing in the life. 

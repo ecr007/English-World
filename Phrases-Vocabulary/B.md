@@ -28,4 +28,8 @@ Breathe: (verb) to take air into you body | Past Tense: Breathed | Past Particip
 
 By means of: Por medio de. To do something using a particular method, instrument or process. 
 
-Bother: (verb) to make the effort to do something. Past Tense: Bothered | Past Participle: Bothered. E.g: He hasn't even bothered to write. 
+Bother: (verb) to make the effort to do something. Past Tense: Bothered | Past Participle: Bothered. E.g: He hasn't even bothered to write.
+
+browse: (verb) take one’s time looking at things without necessarily wanting to buy anything.
+
+bargain hunt: look around for things one can buy cheaply for less than their usual price.

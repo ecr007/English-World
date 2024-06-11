@@ -38,3 +38,12 @@ While you were out: is a message left for someone who was not present or availab
 
 We're running behind scheduled in your job: It means we are not progressing as quickly as planned on your job. 
 
+Wonder: (noun) a felling of amazement and admiration, caused by something beautiful, or unfamiliar. E.g: The boys gaze in wonder at the shiny red Ferrari.
+
+Wonder: (verb) to ask yourself questions or express a wish to know about something. Past Tense: Wondered | Past Participle: Wondered | E.g: Shouldn't your phone home? Your parents will be wondering where you are. | E.g: I wonder if the teacher could assign any homework yesterday. 
+
+What must you do? is a question asking about necessary actions or obligations.
+
+We'll call it even: means that a situation or favor has been balanced out, are both parties are considered to be at the same level or position now. 
+
+Window shop: look at things in store windows without going inside or intending to buy them

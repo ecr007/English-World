@@ -27,3 +27,9 @@ Recover: (verb) Become well again. Past Tense: Recovered | Past Participle: Reco
 Respectful: (adj) show respect for others. 
 
 Responsible: (adj) behave properly and sensible, without needing to be supervised. 
+
+Regularly: 
+
+Relax: (verb) make or become less tense or anxious. Past Tense: Relaxed | Past Participle: Relaxed | E.g: He relaxed and smiled confidently. 
+
+Resent: (verb) feel bitterness or indignation at (a circumstance, action, or person). Past tense: Resented | Past Participle: Resented | E.g: Don't you resent being required to watch ads in movie theaters?

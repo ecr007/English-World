@@ -34,3 +34,15 @@ Take care: (verb) be cautions; keep one self safe. E.g: Take care if you are pla
 
 Treat: (verb) means to behave towards someone in particular way, often in a kind or generous manner. Past Tense: treated | Past participle: treated | E.g; He treated her with grave courtesy. 
 
+To sum up: is transitional phrase that it uses to introduce the final points or conclusion or an argument, discussion or presentation.
+
+Tasty: (adj) Having pleasant, distinct flavor. 
+
+Tell you what: it is often used to introduce a suggestion, proposal or offer. 
+
+That's debatable: means that the issue or statement being discussed is open to argument or discussion because different people may have different opinions on it.
+
+That's just wishful thinking: means that the idea or belief being discussed is unrealistic or not likely to happen. 
+
+Toothpaste: (noun) a paste used on a toothbrush for cleaning the teeth. 
+

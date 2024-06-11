@@ -33,3 +33,9 @@ Dizzy: (Adj) Unable to balance.
 Don't boss me around: is "Don't tell me what to do" or "Don't give me orders".
 
 Did the power go out? The question is asking if the electricity stopped working.
+
+Dangerous: (adj) able or likely to cause harm or injury. E.g: A dangerous animal.  
+
+Disgusting: (adj) arousing revulsion or strong indignation.
+
+Don't fall for that: means to not be deceived or fooled in something.  

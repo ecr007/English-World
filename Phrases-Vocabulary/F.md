@@ -9,3 +9,11 @@ Find: (verb) To discover or locate something that was previously unknown. Past T
 Found: (verb) Establish or originate. Past Tense: Founded | Past Participle: Founded | E.g: Beverly Smith founded your company in 1935.
 
 Fell off: (verb) to drop unintentionally to the ground from (a high object, bicycle, etc). E.g: I fell of my bike.  
+
+Fascinating: (adj) Extremely interesting
+
+Frightening: (adj) making someone afraid or anxious; terrifying. E.g: A frightening experience. 
+
+Funny: (adj) Causing laughter amusement; Humorous. E.g: A funny story. 
+
+We **felt sorry for** him, so we took him in: It means they or someone felt pity or compassion for someone, so they invite him to stay with them. 

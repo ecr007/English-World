@@ -12,23 +12,6 @@ Private owned business: (noun) company owned by individuals or stockholders, rat
 
 Play: (verb) To engage in activities for enjoyment or recreation. Past Tense: Played | Past Participle: Played | E.g: They played board games all night.
 
-## Participles Used as Adjectives (Grammar)
-
-Them can be use to describe a state.
-
-- The door is **closed**
-
-Past participles of verbs (-ed forms) can be used as adjectives. Most come before the noun or after a linking verb, such as be, seem, or feel.
-
-- Let's go skating! The lake looks frozen.
-- My suitcase is packed.
-
-Many verbs have irregular simple past and past participle forms. These past participle forms do not have -ed ending.
-
-- The key is **bent** and the lock is is **broken**.
-
-<hr />
-
 Put on: (verb) To dress oneself or wear clothing. E.g: I need to put on my coat before going outside.
 
 Pick up: (verb) To lift or grasp something from a surface. E.g: He picked up the book from the table.
@@ -51,23 +34,10 @@ Polite: (adj) has a good manners and is not rude to other people.
 
 Paid time off (**PTO**) is a human resource management (HRM) policy that provides employees with a pool of bankable hours that can be used for any purpose. 
 
-## Phrasal Verbs 
+Paycheck: (noun) The amount of money a person earns. Salary or income. E.g: It's easy to go on expensive holidays when you have a paychecks the size of hers. 
 
-|                  |                                        |
-|------------------|----------------------------------------|
-| Please **turn on** the TV <br> Erin **ran into** Alex yesterday | English has many two world (phrasal) verbs. These verb has a verb (like turn or run) and a small word. <br> (Like: at, along, back, down, in, on, out, over, up, with). |
-| Please **turn on** the TV <br> Please **turn** the TV/ it **on** <br> ~~Please turn on it~~ | Some phrasal verb are separable. This means the object (Noun or pronoun) can separate the phrasal verb.<br>With separable phrasal verbs. The pronoun cannot follow the phrasal verb. |
-| Erin **ran into** Alex / Him yesterday. | Many phrasal verb are inseparable. This means the object (a noun or pronoun) can only follow the phrasal verb. |
-| She **grew up** in Mexico City. | Some phrasal verb do not take an object. |
-| Do you **get along** with Max?<br> Did Sean **ask** her **out**? <br> When did they **break up**? <br> Have you ever **gone out** with him? | Form question with phrasal verbs the same way you do with other verbs. |
-| ... | ... | ... |
-| **Separable Phrasal Verbs** | **Inseparable Phrasal Verbs** |
-| **Ask** (someone) **out** | **break up** (someone) |
-| **Give** (something) **up** = "to stop doing something" | **Cheat on** (someone) |
-| **Turn** (something) **down** | **Get alone** (with someone) |
-| **Turn** (something) **on** / **off** | **Go out** (someone) |
-|  | **Grow up** |
-|  | **Make up** (with someone) = "to forgive someone and become friends again" |
-|  | **Run into** (someone) |
+Patient: (noun -> person) | (adj) able to accept or tolerate delays, problems, or suffering without becoming annoyed or anxious. E.g: Be patient, your time will come. 
 
-<hr>
+Put up with: to tolerate or endure something or someone that is unpleasant or annoying. E.g: She puts up with him petty well. 
+
+Put him in his place: to assert authority over someone who has been acting inappropriately or challenging authority.  

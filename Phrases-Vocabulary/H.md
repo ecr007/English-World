@@ -25,3 +25,5 @@ Honest: (adj) always tell the truth, and do not try to deceive people or break t
 Happen: (verb) take place. Past Tense: Happened | Past participle: Happened | e.g: Two hours had passed and still nothing had happened. 
 
 Hypothetical Situation: is when someone pretends to believe something that they do not, or does something that contradict what they say. 
+
+Hardworking: (adj) Tending to work with energy and commitment; diligent. E.g: An efficient, hard-working, and trusted administrator. 

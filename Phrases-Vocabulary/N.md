@@ -12,3 +12,5 @@ Natural Wonders: (noun) thins that not are made by the man. E.g: Grand Canyon in
 
 No one is above de law.
 
+Noisy: (adj) making or given to making a lot of noise. E.g: The noisy construction next the door made it difficult for her to concentrate on her studies. 
+

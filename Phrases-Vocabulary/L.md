@@ -23,3 +23,7 @@ Land: (noun) The part of the earth's surface that is not covered by water.
 Language Barrier: (noun) refers to the communication difficulty that arises when people who speak different languages are unable to understand each other.
 
 Lately: (Adverb) Recently; not long ago. E.g: She hasn't been looking to well lately. 
+
+Laugh: (verb) is a physical reaction that shows happiness or amusement, usually accompanied by sound or facial expressions. Past Tense: Laughed | Past Participle: Laughed | E.g. She couldn't help but laugh when her friend told a funny joke.
+
+Lazy: (adj) unwilling to work or use energy. E.g: He was too lazy to cook.

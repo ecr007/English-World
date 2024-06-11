@@ -29,3 +29,7 @@ Cough: (verb) to expel air suddenly and noisily from the lungs, typically to cle
 Call in sick: to inform to your employer that you are unable to come to work because you are unwell.
 
 Career: (noun) an occupation undertaken for a significant period of a person's life and with opportunities for progress.
+
+Cooped up: being confined or restricted in a small or crowded place.
+
+Comparison shop: look at the prices of the same or similar items in order to decide which to buy

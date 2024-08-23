@@ -17,3 +17,5 @@ Frightening: (adj) making someone afraid or anxious; terrifying. E.g: A frighten
 Funny: (adj) Causing laughter amusement; Humorous. E.g: A funny story. 
 
 We **felt sorry for** him, so we took him in: It means they or someone felt pity or compassion for someone, so they invite him to stay with them. 
+
+Fussy: (adj) fastidious about one's needs or requirements; hard to please. E.g: He is very fussy about what he eats. 

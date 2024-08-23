@@ -25,3 +25,7 @@ Attractive: (adj) pleasing appealing to the senses, especially in terms of physi
 Among: (preposition) surrounded by; in the company of. 
 
 Aware: (adj) having knowledge or perception of a situation or fact. 
+
+Anytime soon: in the near future or soon. 
+
+

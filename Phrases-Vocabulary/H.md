@@ -27,3 +27,6 @@ Happen: (verb) take place. Past Tense: Happened | Past participle: Happened | e.
 Hypothetical Situation: is when someone pretends to believe something that they do not, or does something that contradict what they say. 
 
 Hardworking: (adj) Tending to work with energy and commitment; diligent. E.g: An efficient, hard-working, and trusted administrator. 
+
+Have a great time: it means to enjoy yourself and have a good experience. E.g: I hope you have a great time at the party tonight.
+

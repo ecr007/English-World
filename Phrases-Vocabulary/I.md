@@ -42,3 +42,5 @@ In charge: means to be responsible for or have authority over something or someo
 I owe you one: means that you feel grateful to someone for doing something for you and you will return the favor in the future. 
 
 I could kick myself: feeling regretful or annoyed with oneself for making a mistake or missing an opportunity.
+
+I hope you'll get better soon: this means the speaker wishes for the listener to recover from an illness or feel better in the near future.

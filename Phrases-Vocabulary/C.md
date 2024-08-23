@@ -32,4 +32,6 @@ Career: (noun) an occupation undertaken for a significant period of a person's l
 
 Cooped up: being confined or restricted in a small or crowded place.
 
-Comparison shop: look at the prices of the same or similar items in order to decide which to buy
+Comparison shop: look at the prices of the same or similar items in order to decide which to buy.
+
+Culturally speaking: typically used to refer to a particular cultural context or cultural values. E.g: Canadian values emphasize politeness and respect. 

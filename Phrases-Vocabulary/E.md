@@ -16,5 +16,7 @@ Exhausted: (Adj) Very tired.
 
 Energetic: (Adj) Showing or involving great activity or vitality. E.g: Moderately energetic exercise.
 
+Embarrassed: (adj) means feeling self-conscious, awkward, or ashamed in social situation. E.g: she felt embarrassed when she tripped in front of her classmates.
+
 
 

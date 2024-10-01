@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" 
+          xmlns:x="urn:schemas-microsoft-com:office:excel" 
+          xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" 
+          xmlns:html="http://www.w3.org/TR/REC-html40">
+
+  <Styles>
+    <Style ss:ID="header">
+      <Font ss:Bold="1"/>
+      <Alignment ss:Horizontal="Center"/>
+    </Style>
+    <Style ss:ID="normal">
+      <Alignment ss:Horizontal="Left"/>
+    </Style>
+    <Style ss:ID="currency">
+      <NumberFormat ss:Format="Currency"/>
+    </Style>
+  </Styles>
+
+  <Worksheet ss:Name="Resumen Ejecutivo">
+    <Table>
+      <Row>
+        <Cell ss:StyleID="header"><Data ss:Type="String">Stakeholders</Data></Cell>
+        <Cell ss:StyleID="normal"><Data ss:Type="String">Mariel Montero, Jhoelin Cruz, Maria Flecha, Cesar Ferreria, Ever Cuevas</Data></Cell>
+      </Row>
+      <Row>
+        <Cell ss:StyleID="header"><Data ss:Type="String">Resumen Ejecutivo</Data></Cell>
+        <Cell ss:StyleID="normal"><Data ss:Type="String">Plan para visitar los 27 principales países de Europa en el último trimestre de 2025, organizado por semanas.</Data></Cell>
+      </Row>
+      <Row>
+        <Cell ss:StyleID="header"><Data ss:Type="String">Objetivos</Data></Cell>
+        <Cell ss:StyleID="normal"><Data ss:Type="String">Explorar atracciones, optimizar tiempo, sumergirse en cultura, documentar viaje, y mantener presupuesto controlado.</Data></Cell>
+      </Row>
+    </Table>
+  </Worksheet>
+
+  <Worksheet ss:Name="Cronograma">
+    <Table>
+      <Row>
+        <Cell ss:StyleID="header"><Data ss:Type="String">Mes</Data></Cell>
+        <Cell ss:StyleID="header"><Data ss:Type="String">Países a Visitar</Data></Cell>
+      </Row>
+      <Row>
+        <Cell ss:StyleID="normal"><Data ss:Type="String">Octubre 2025</Data></Cell>
+        <Cell ss:StyleID="normal"><Data ss:Type="String">Francia, Bélgica, Luxemburgo, Países Bajos, Alemania, Dinamarca, Noruega, Suecia, Finlandia, Estonia, Letonia, Lituania, Polonia</Data></Cell>
+      </Row>
+      <Row>
+        <Cell ss:StyleID="normal"><Data ss:Type="String">Noviembre 2025</Data></Cell>
+        <Cell ss:StyleID="normal"><Data ss:Type="String">República Checa, Austria, Eslovaquia, Hungría, Eslovenia, Croacia, Italia, Suiza, Liechtenstein, Grecia, Malta, Chipre</Data></Cell>
+      </Row>
+      <Row>
+        <Cell ss:StyleID="normal"><Data ss:Type="String">Diciembre 2025</Data></Cell>
+        <Cell ss:StyleID="normal"><Data ss:Type="String">España, Portugal, Andorra, Irlanda, Reino Unido, Rumanía, Bulgaria, Serbia</Data></Cell>
+      </Row>
+    </Table>
+    <!-- A graph can be added manually in Excel after loading the data -->
+  </Worksheet>
+
+  <Worksheet ss:Name="Presupuesto">
+    <Table>
+      <Row>
+        <Cell ss:StyleID="header"><Data ss:Type="String">Categoría</Data></Cell>
+        <Cell ss:StyleID="header"><Data ss:Type="String">Detalles</Data></Cell>
+        <Cell ss:StyleID="header"><Data ss:Type="String">Costo</Data></Cell>
+      </Row>
+      <Row>
+        <Cell ss:StyleID="normal"><Data ss:Type="String">Transporte</Data></Cell>
+        <Cell ss:StyleID="normal"><Data ss:Type="String">Vuelos internacionales, trenes, transporte local</Data></Cell>
+        <Cell ss:StyleID="currency"><Data ss:Type="Number">3500</Data></Cell>
+      </Row>
+      <Row>
+        <Cell ss:StyleID="normal"><Data ss:Type="String">Alojamiento</Data></Cell>
+        <Cell ss:StyleID="normal"><Data ss:Type="String">Hostales o Airbnb económicos (~$50 por noche)</Data></Cell>
+        <Cell ss:StyleID="currency"><Data ss:Type="Number">4500</Data></Cell>
+      </Row>
+      <Row>
+        <Cell ss:StyleID="normal"><Data ss:Type="String">Alimentación</Data></Cell>
+        <Cell ss:StyleID="normal"><Data ss:Type="String">Comidas económicas (~$25 por día)</Data></Cell>
+        <Cell ss:StyleID="currency"><Data ss:Type="Number">2250</Data></Cell>
+      </Row>
+      <Row>
+        <Cell ss:StyleID="normal"><Data ss:Type="String">Actividades</Data></Cell>
+        <Cell ss:StyleID="normal"><Data ss:Type="String">Museos, tours, actividades culturales</Data></Cell>
+        <Cell ss:StyleID="currency"><Data ss:Type="Number">540</Data></Cell>
+      </Row>
+      <Row>
+        <Cell ss:StyleID="normal"><Data ss:Type="String">Misceláneos</Data></Cell>
+        <Cell ss:StyleID="normal"><Data ss:Type="String">Souvenirs, emergencias</Data></Cell>
+        <Cell ss:StyleID="currency"><Data ss:Type="Number">500</Data></Cell>
+      </Row>
+      <Row>
+        <Cell ss:StyleID="header"><Data ss:Type="String">Total</Data></Cell>
+        <Cell ss:StyleID="normal"></Cell>
+        <Cell ss:StyleID="currency"><Data ss:Type="Number">11290</Data></Cell>
+      </Row>
+    </Table>
+  </Worksheet>
+
+  <Worksheet ss:Name="Acciones">
+    <Table>
+      <Row>
+        <Cell ss:StyleID="header"><Data ss:Type="String">Acciones</Data></Cell>
+      </Row>
+      <Row>
+        <Cell ss:StyleID="normal"><Data ss:Type="String">Solicitar vacaciones</Data></Cell>
+      </Row>
+      <Row>
+        <Cell ss:StyleID="normal"><Data ss:Type="String">Reservar vuelos y trenes con antelación</Data></Cell>
+      </Row>
+      <Row>
+        <Cell ss:StyleID="normal"><Data ss:Type="String">Planificar rutas diarias</Data></Cell>
+      </Row>
+      <Row>
+        <Cell ss:StyleID="normal"><Data ss:Type="String">Buscar alojamientos económicos</Data></Cell>
+      </Row>
+      <Row>
+        <Cell ss:StyleID="normal"><Data ss:Type="String">Investigar opciones de transporte local</Data></Cell>
+      </Row>
+      <Row>
+        <Cell ss:StyleID="normal"><Data ss:Type="String">Crear un itinerario flexible</Data></Cell>
+      </Row>
+      <Row>
+        <Cell ss:StyleID="normal"><Data ss:Type="String">Establecer un presupuesto diario</Data></Cell>
+      </Row>
+    </Table>
+  </Worksheet>
+
+</Workbook>

@@ -47,3 +47,7 @@ That's just wishful thinking: means that the idea or belief being discussed is u
 Toothpaste: (noun) a paste used on a toothbrush for cleaning the teeth. 
 
 Term: a word used to describe a thing or to express a concept, especially in a particular kind of language or branch of study. 
+
+Take the garbage out: To remove trash from inside a place a put and put it outsite for disposal.
+
+

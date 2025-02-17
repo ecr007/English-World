@@ -28,4 +28,6 @@ Aware: (adj) having knowledge or perception of a situation or fact.
 
 Anytime soon: in the near future or soon. 
 
+Ankle: (noun) The joint that connect the foot to the leg. 
+
 

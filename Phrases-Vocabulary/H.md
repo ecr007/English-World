@@ -30,3 +30,5 @@ Hardworking: (adj) Tending to work with energy and commitment; diligent. E.g: An
 
 Have a great time: it means to enjoy yourself and have a good experience. E.g: I hope you have a great time at the party tonight.
 
+Harmless: (adjective) Not causing harm, danger or injury. 
+

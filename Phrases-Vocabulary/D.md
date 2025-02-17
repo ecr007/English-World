@@ -39,3 +39,5 @@ Dangerous: (adj) able or likely to cause harm or injury. E.g: A dangerous animal
 Disgusting: (adj) arousing revulsion or strong indignation.
 
 Don't fall for that: means to not be deceived or fooled in something.  
+
+Doorknob: (noun) (llavin) A round or oval handle used to close or open a door. 

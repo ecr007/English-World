@@ -33,3 +33,6 @@ Bother: (verb) to make the effort to do something. Past Tense: Bothered | Past P
 browse: (verb) take one’s time looking at things without necessarily wanting to buy anything.
 
 bargain hunt: look around for things one can buy cheaply for less than their usual price.
+
+banister: (noun) the structure formed by the uprights and the handrail at the side of a staircase. 
+

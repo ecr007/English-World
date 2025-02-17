@@ -41,3 +41,6 @@ Patient: (noun -> person) | (adj) able to accept or tolerate delays, problems, o
 Put up with: to tolerate or endure something or someone that is unpleasant or annoying. E.g: She puts up with him petty well. 
 
 Put him in his place: to assert authority over someone who has been acting inappropriately or challenging authority.  
+
+Peanut butter: (noun) A smooth or crunchy spread made from ground peanuts. 
+

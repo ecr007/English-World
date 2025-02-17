@@ -53,3 +53,5 @@ Symptom: (noun) something wrong with your body. E.g: Symptom of heart attack.
 Sit: (verb) to rest one's weight on one's buttocks or another part of the body supported by a surface. Past Tense: sat | Past Participle: sat | e.g: He sat on the bench and enjoyed the view.
 
 Skyscraper: is a very tall building with multiple floors.
+
+Shop Clerk: (noun) A person who works in a store and helps customers. 
